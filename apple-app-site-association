@@ -1,0 +1,9 @@
+{
+  "applinks": {
+      "details": [
+           {
+             "appIDs": [ "ABCDE12345.com.silverkey.felucy" ],
+           }
+       ]
+   }
+}
